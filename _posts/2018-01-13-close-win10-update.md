@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "win10 关闭更新"
-categories: win10
-tags:  win10 工具软件  
+categories: windows
+tags:  windows 工具软件  
 author: Wsq
 ---
 
