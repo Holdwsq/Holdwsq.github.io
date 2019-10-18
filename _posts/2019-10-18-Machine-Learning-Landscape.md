@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "机器学习概览"
-categories: windows
+categories: Machine Learning
 tags:  Machine Learning  
 author: Wsq
 ---
