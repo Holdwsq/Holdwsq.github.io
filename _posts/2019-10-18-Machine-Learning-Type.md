@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "机器学习系统分类"
+categories: MachineLearning
+tags:  MachineLearning  
+author: Wsq
+---
+
+* content
+{:toc}
+
 ## 机器学习系统的类型
 
 根据常见规则进行分类：

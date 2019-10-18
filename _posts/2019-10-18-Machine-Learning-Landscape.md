@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "机器学习概览"
-categories: Machine Learning
-tags:  Machine Learning  
+categories: MachineLearning
+tags:  MachineLearning  
 author: Wsq
 ---
 
