@@ -16,7 +16,8 @@ author: Wsq
 
 ## 为什么使用机器学习？
 
-![传统方法](https://github.com/Holdwsq/Holdwsq.github.io/blob/master/_pictures/custom_method.jpg)
+<center>![传统方法](https://raw.githubusercontent.com/Holdwsq/Holdwsq.github.io/master/_pictures/custom_method.jpg)</center>
+<center>传统方法</center>
 
 在面对新来的事物做判断时，传统的方式会采用一长串负责的规则去进行判断，如果新来的样本符合我们规则，我们就可以准确的判断样本的好坏、
 品质等类型，当遇见我们规则不发匹配的时候，我们就无法正确做出判断，以及随后要更新我们已有的规则。在面对大数据、变化频发的状况下，
