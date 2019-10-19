@@ -24,7 +24,7 @@ author: Wsq
 #### 监督学习
 在监督学习中，用来训练算法的训练集包含了答案，也称为标签。
 
-<center><img alt="监督学习" src="https://raw.githubusercontent.com/Holdwsq/Holdwsq.github.io/master/_pictures/Supervised_learning.jpg"></center>
+<center><img alt="监督学习" src="https://img-blog.csdnimg.cn/20191019103336690.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NvZGVvaA==,size_16,color_FFFFFF,t_70"></center>
 <center>监督学习</center>
 
 典型的监督学习任务是分类。 垃圾邮件过滤器就是一个很好的例子： 用许多带有归类（垃圾邮件或普通邮件） 的邮件样本进行训练， 过滤器必须还能对新邮件进行分类。
@@ -40,7 +40,7 @@ author: Wsq
 ### 非监督学习
 在非监督学习中，训练集是没有给出答案或者标签，是在没有人工规定条件下进行学习。
 
-<center><img alt="非监督学习" src="https://raw.githubusercontent.com/Holdwsq/Holdwsq.github.io/master/_pictures/Unsupervised_learning.jpg"></center>
+<center><img alt="非监督学习" src="https://img-blog.csdnimg.cn/20191019103312555.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NvZGVvaA==,size_16,color_FFFFFF,t_70"></center>
 <center>非监督学习</center>
 
 常见非监督学习算法：
@@ -74,7 +74,7 @@ Eclat 算法
 一些算法可以处理部分带标签的训练数据， 通常是大量不带标签数据加上小部分带标签数
 据。 这称作半监督学习。
 
-<center><img alt="半监督学习" src="https://raw.githubusercontent.com/Holdwsq/Holdwsq.github.io/master/_pictures/Semisupervised_learning.jpg"></center>
+<center><img alt="半监督学习" src="https://img-blog.csdnimg.cn/20191019103403466.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NvZGVvaA==,size_16,color_FFFFFF,t_70"></center>
 <center>半监督学习</center>
 
 多数半监督学习算法是非监督和监督算法的结合。 例如， 深度信念网络（ deep beliefnetworks） 是基于被称为互相叠加的受限玻尔兹曼机（ restricted Boltzmann machines，RBM） 的非监督组件。 RBM 是先用非监督方法进行训练， 再用监督学习方法进行整个系统微调。
@@ -83,5 +83,5 @@ Eclat 算法
 
 强化学习非常不同。学习系统在这里被称为智能体（agent），可以对环境进行观察，选择和执行动作，获得奖励（负奖励是惩罚） 。 然后它必须自己学习哪个是最佳方法（称为策略， policy），以得到长久的最大奖励。策略决定了智能体在给定情况下应该采取的行动。
 
-<center><img alt="强化学习" src="https://raw.githubusercontent.com/Holdwsq/Holdwsq.github.io/master/_pictures/Reinforcement_Learning.jpg"></center>
+<center><img alt="强化学习" src="https://img-blog.csdnimg.cn/20191019103427902.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NvZGVvaA==,size_16,color_FFFFFF,t_70"></center>
 <center>强化学习</center>
